@@ -1,11 +1,11 @@
 library(here)
 
 dir = here()
-dir = paste(dir, "/recasp/main", sep = "")
+dir = paste(dir, "/recasp/aims", sep = "")
 
 # main file
 setwd(dir)
-main = readLines("main.html")
+main = readLines("aims.html")
 
 
 # html header
@@ -21,12 +21,15 @@ output = hmod::string_replace("<h1", '<h1 style="font-weight: bold;"', output)
 output = hmod::string_replace("<h2", '<h2 style="font-weight: bold;"', output)
 output = hmod::string_replace("<h3", '<h3 style="font-weight: bold;"', output)
 
+output = hmod::string_replace("<p>", '<p style="font-size: 18px;line-height: 1.6;">', output)
+output = hmod::string_replace("<li>", '<li style="font-size: 18px;">', output)
+
 
 
 # export
 setwd(dir)
 write.table(output,
-            "main.html",
+            "aims.html",
             col.names = F,
             row.names = F,
             quote = F)

@@ -26,7 +26,7 @@ Manuscripts for peer review should be sent in PDF format. Accepted manuscripts c
 
 ### LaTex Template
 
-*RECASP* provides a template for LaTeX submissions. [Download the template](fillme).
+*RECASP* provides a template for LaTeX submissions. [Download the template](https://github.com/blairfix/recasp_template/archive/master.zip).
 
 ### Figures
 

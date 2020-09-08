@@ -17,7 +17,13 @@ sed -i -e "s/---/\&mdash;/g
 	s/>'/>\&lsquo;/g  
 	s/' /\&rsquo; /g 
 	s/'/\&rsquo;/g" main.html 
+
+
+cd ../articles/
+Rscript run.R
+
 	
+cd "$parent_path"
 Rscript merge.R	
 
 

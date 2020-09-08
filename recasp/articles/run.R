@@ -4,12 +4,13 @@ library(stringr)
 library(hmod)
 
 dir = here()
+dir = paste(dir, "/recasp/articles", sep = "")
 setwd(dir)
 
 # templates
 setwd(dir)
 setwd("./templates")
-page_temp = readLines("page_template.html")
+table_enviro = readLines("table_environment.html")
 table_temp = readLines("table_template.html")
 paper_temp = readLines("paper_template.html")
 
@@ -20,6 +21,7 @@ setwd("./metadata")
 f = list.files()
 f = sort(f, decreasing = T)
 
+index = 1
 table_out = NULL
 for(path in f){
   
@@ -111,6 +113,25 @@ for(path in f){
     
     table_out = c(table_out, table_entry)
     
+    # write out recent articles
+    if(index == 4){
+      
+      recent = paste(table_out, collapse = "\n")
+      
+      # paste into table_environment
+      page_out = string_replace("table_here", recent, table_enviro)
+      
+      setwd(dir)
+      setwd("./html")
+      write.table(page_out,
+                  "articles_recent.html",
+                  col.names = F,
+                  row.names = F,
+                  quote = F)
+    }
+    
+    index = index + 1
+    
     
     # paper page
     paper_out = paper_temp
@@ -137,14 +158,14 @@ for(path in f){
 
 table_out = paste(table_out, collapse = "\n")
 
-# paste into page html
-page_out = string_replace("table_here", table_out, page_temp)
+# paste into table_environment
+page_out = string_replace("table_here", table_out, table_enviro)
 
 # export articles page
 setwd(dir)
 setwd("./html")
 write.table(page_out,
-            "articles.html",
+            "articles_all.html",
             col.names = F,
             row.names = F,
             quote = F)

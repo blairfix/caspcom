@@ -13,7 +13,7 @@ setwd("./templates")
 table_enviro = readLines("table_environment.html")
 table_temp = readLines("table_template.html")
 paper_temp = readLines("paper_template.html")
-
+header = readLines("page_header.html")
 
 # meta_data
 setwd(dir)
@@ -160,6 +160,10 @@ table_out = paste(table_out, collapse = "\n")
 
 # paste into table_environment
 page_out = string_replace("table_here", table_out, table_enviro)
+
+heading = '<h1 style="font-weight: bold;">Review of Capital as Power</h1>'
+
+page_out = c(header, heading, page_out, "</body></html>")
 
 # export articles page
 setwd(dir)

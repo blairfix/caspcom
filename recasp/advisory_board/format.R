@@ -28,17 +28,40 @@ name = paste(board$first, board$middle, board$last, sep = " ")
 place = board$place
 
 # table
-table_out = paste('<tr><td style="font-size: 18px;">', 
+table_editor = paste('<tr><td style="font-size: 18px; width:225px">', 
+               "Blair Fix", 
+               '</td><td style="color: #666;">', 
+               "Toronto, Canada", 
+               "</td></tr>")
+
+table_editor = paste(table_editor, collapse = "\n")
+table_editor = paste('<table>', 
+                     '<td></td><td></td>',
+                     table_editor, 
+                     "</table>")
+
+
+table_board = paste('<tr><td style="font-size: 18px; width:225px">', 
                   name, 
                   '</td><td style="color: #666;">', 
                   place, 
                   "</td></tr>")
-                    
-table_out = paste(table_out, collapse = "\n")
 
-table_out = paste("<table>", table_out, "</table>")
 
-write.table(table_out,
+table_board = paste(table_board, collapse = "\n")
+table_board = paste('<table',
+                    '<td></td><td></td>',
+                    table_board, 
+                    "</table>")
+
+
+page = paste('<h3 style="font-weight: bold;">Editor</h3>', 
+             table_editor,
+             '<h3 style="font-weight: bold;">Advisory Board</h3>',
+             table_board)
+
+
+write.table(page,
            "board.html",
            quote = F,
            col.names = F,

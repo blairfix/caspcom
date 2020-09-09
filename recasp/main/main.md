@@ -1,22 +1,18 @@
 # Review of Capital as Power
 
-The *Review of Capital as Power* (*RECASP*) is an interdisciplinary, peer-reviewed journal dedicated to the study of capital and capitalism. The journal invites contributions that engage with the idea that capital is *power* --- a symbolic quantification of property rights. Both empirical and theoretical research are welcome.
-
-
-* [Aims & Scope](https://capitalaspower.com/recasp/aims-scope/)
-
-* [Submission Guidelines](https://capitalaspower.com/recasp/guidelines/)
+The *Review of Capital as Power* (*RECASP*) is a non-disciplinary, peer-reviewed journal dedicated to the study of capital and capitalism. The journal invites contributions that engage with the idea of ‘capital *as* power’ – namely, the notion that capital is a symbolic quantification of organized power, and that capitalism as a whole can be studied as a mode of power. Both empirical and theoretical research are welcome.
 
 
 
 ### Editor
 
-Blair Fix
+Blair Fix [(email)](mailto:blairfix@gmail.com)
 
 
 ### Publishing Model
 
-Articles are published open access under the [Creative Commons](https://creativecommons.org/).
+Articles are published as Open Access under the Creative Commons licence [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/ )
+
 
 
 ### Latest Articles

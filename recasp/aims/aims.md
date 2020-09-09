@@ -1,43 +1,34 @@
 # Aims & Scope
 
-The *Review of Capital as Power* (*RECASP*) is an interdisciplinary, peer-reviewed journal dedicated to the study of capital and capitalism. The journal invites contributions that engage with the idea that capital is *power* --- a symbolic quantification of property rights. Both empirical and theoretical research are welcome.
+The *Review of Capital as Power* (*RECASP*) is a non-disciplinary, peer-reviewed journal dedicated to the study of capital and capitalism. The journal invites contributions that engage with the idea of ‘capital *as* power’ – namely, the notion that capital is a symbolic quantification of organized power, and that capitalism as a whole can be studied as a mode of power. Both empirical and theoretical research are welcome.
 
-### What is 'Capital as Power'?
 
-'Capital as power' is a framework for understanding and analyzing capitalism. First proposed by Jonathan Nitzan and Shimshon Bichler, capital as power treats 'capital' not as a 'thing', but as a quantification of ownership rights. 
-
-### Methods
-
-A defining feature of capital-as-power research is a focus on 'differential' (rather than 'real') measures of monetary value. This can include (but is not limited to) differential capitalization, differential profit, differential income, and differential prices.
 
 
 ### Past Research
 
-The capital as power framework has been applied to a wide variety of topics, including:
-
-* the growth of dominant capital
+The capital-as-power approach has been applied to a wide variety of topics, including:
 
 * capitalist income and business cycles
-
-* the growth of hierarchy
-
-* the nature of money
-
-* income inequality
-
 * debt
-
-* social movements
-
-* mergers and acquisitions
-
+* education
+* income inequality
+* inflation and stagflation
 * investment risk
+* mergers and acquisitions
+* military conflicts
+* social movements
+* the growth of dominant capital
+* the growth of hierarchy
+* the nature of money and finance
+* the origin of capitalism
+
 
 
 
 ### Criticism Welcome
 
-The *Review of Capital as Power* welcomes research that is critical of the capital as power approach. This can include criticism of methods and/or of the capital-as-power framework itself.
+The *Review of Capital as Power* welcomes research that is critical of the capital-as-power approach. This research can include criticism of specific studies, methods and the very notion of capital as power.
 
 ### Replication and Null Results
 

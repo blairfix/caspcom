@@ -1,6 +1,6 @@
 # Submission Guidelines
 
-To submit an article, please email your manuscript to `blairfix@gmail.com` with the subject 'RECASP submission'. Manuscripts should be sent as a PDF file.
+To submit an article, please email your manuscript to [`blairfix@gmail.com`](mailto:blairfix@gmail.com) with the subject 'RECASP submission'. Manuscripts should be sent as a PDF file.
 
 ### Anonymous Peer Review
 
@@ -13,11 +13,12 @@ The *Review of Capital as Power* practices double-blind peer review. To facilita
 
 ### Length
 
-Manuscripts can be any length. However, authors should aim for brevity when possible.
+Manuscripts can be any length. However, we encourage authors to be as concise as possible.
+
 
 ### File Formats
 
-Manuscripts for peer review should be sent in PDF format. Accepted manuscripts can be sent in LaTex, markdown or DOC/DOCX/OTF.
+Manuscripts for peer review should be sent in PDF format. Accepted manuscripts should be sent in LaTex, markdown or DOC/DOCX/OTF.
 
 ### Referencing
 
@@ -32,10 +33,10 @@ Manuscripts for peer review should be sent in PDF format. Accepted manuscripts c
 
 Please include figures *within* your manuscript. Should your manuscript be accepted, we will ask for high-resolution figure files. Acceptable figure formats include:
 
-* png
 * jpg
+* png
 * pdf
-* eps
+* svg
 
 ### Data
 

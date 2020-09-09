@@ -28,7 +28,7 @@ name = paste(board$first, board$middle, board$last, sep = " ")
 place = board$place
 
 # table
-table_editor = paste('<tr><td style="font-size: 18px; width:225px">', 
+table_editor = paste('<tr><td style="width:225px">', 
                "Blair Fix", 
                '</td><td style="color: #666;">', 
                "Toronto, Canada", 
@@ -41,7 +41,7 @@ table_editor = paste('<table>',
                      "</table>")
 
 
-table_board = paste('<tr><td style="font-size: 18px; width:225px">', 
+table_board = paste('<tr><td style="width:225px">', 
                   name, 
                   '</td><td style="color: #666;">', 
                   place, 

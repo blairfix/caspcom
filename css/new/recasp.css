@@ -366,9 +366,9 @@ p.rss-gray-spacing {
     padding-bottom: 0px;
 }
 
-/*testing by Blair*/
+/*added Oct1*/
 body.no-sidebar #primary {
-    max-width: 700px;
+    max-width: 1100px;
     padding-left: 25px;
     padding-right: 5px;
 }

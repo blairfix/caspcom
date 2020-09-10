@@ -3,7 +3,7 @@
 
 The *Review of Capital as Power* is pleased to announce our 2020 essay competition. We are seeking essays that engage with the idea of *capital as power*. Winning essays will be published in the *Review of Capital as Power*, and will receive:
 
-<table style="width:400px">
+<table style="width:400px; margin-left: auto;margin-right: auto;">
 <td></td><td></td>
 <tr><td>First Prize</td><td>$1000</td></tr>
 <tr><td>Second Prize</td><td>$500</td></tr>
@@ -17,7 +17,7 @@ The topic of your essay is open, so long as it engages with the idea of capital 
 
 ### Deadline: 
 
-Please submit your essay by **January 31, 2020**. 
+Please submit your essay by **January 31, 2021**. 
 
 
 ### How to submit
@@ -37,8 +37,8 @@ Make sure you essay meets the following requirements:
 <tr><td>File type</td><td>Please submit you essay as a PDF</td>
 <tr><td>Submit two versions</td><td>
 <ul>
-<li>Version 1: includes author information</li>
-<li>Version 2: identifying information redacted</li>
+<li>Version 1: <i>includes</i> author information</li>
+<li>Version 2: <i>redacts</i> identifying information</li>
 </ul>
 </td>
 </tr>
@@ -47,7 +47,7 @@ Make sure you essay meets the following requirements:
 
 ### Adjudication
 
-Essays will be judged by the *Review of Capital as Power* advisory board using blind review. 
+Essays will be judged by the *Review of Capital as Power* using blind review. 
 
 
 
@@ -56,5 +56,5 @@ Essays will be judged by the *Review of Capital as Power* advisory board using b
 We will announce results by April 30th, 2021. 
 
 
-Note: should no essay be found deserving, the committee may decide not to nominate a winner.
+Note: should no essay be found deserving, we may decide not to nominate a winner.
 

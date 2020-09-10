@@ -1,7 +1,7 @@
-# Capital as Power 2020 Essay Prize
+# Capital as Power 2021 Essay Prize
 
 
-The *Review of Capital as Power* is pleased to announce our 2020 essay competition. We are seeking essays that engage with the idea of *capital as power*. Winning essays will be published in the *Review of Capital as Power*, and will receive:
+The *Review of Capital as Power* is pleased to announce our 2021 essay competition. We are seeking essays that engage with the idea of *capital as power*. Winning essays will be published in the *Review of Capital as Power*, and will receive:
 
 <table style="width:400px; margin-left: auto;margin-right: auto;">
 <td></td><td></td>

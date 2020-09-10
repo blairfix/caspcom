@@ -161,7 +161,7 @@ table_out = paste(table_out, collapse = "\n")
 # paste into table_environment
 page_out = string_replace("table_here", table_out, table_enviro)
 
-heading = '<h1 style="font-weight: bold;">Review of Capital as Power</h1>'
+heading = '<h1 style="font-weight: bold;">Articles</h1>'
 
 page_out = c(header, heading, page_out, "</body></html>")
 

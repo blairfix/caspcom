@@ -55,9 +55,10 @@ table_board = paste('<table',
                     "</table>")
 
 
-page = paste('<h3 style="font-weight: bold;">Editor</h3>', 
+page = paste('<h1 style="font-weight: bold;">Advisory Board</h1>',
+			 '<h3 style="font-weight: bold;">Editor</h3>', 
              table_editor,
-             '<h3 style="font-weight: bold;">Advisory Board</h3>',
+             '<h3 style="font-weight: bold;">Board</h3>',
              table_board)
 
 

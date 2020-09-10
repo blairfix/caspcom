@@ -29,21 +29,19 @@ Email your submissions to [`blairfix@gmail.com`](mailto:blairfix@gmail.com).
 
 Make sure you essay meets the following requirements:
 
-<div align="center">
-<table>
+
+<table style="width:500px; margin-left: auto; margin-right: auto;">
 <td></td><td></td>
-<tr><td>Unpublished</td><td>You essay should <i>not</i> have been published before in a book or refereed journal</td></tr>
-<tr><td>Length</td><td> 6,000 to 12,000 words (including references)</td></tr></td></tr>
-<tr><td>File type</td><td>Please submit you essay as a PDF</td>
-<tr><td>Submit two versions</td><td>
-<ul>
-<li>Version 1: <i>includes</i> author information</li>
-<li>Version 2: <i>redacts</i> identifying information</li>
-</ul>
+<tr><td><b>Unpublished</b></td><td>You essay should <i>not</i> have been published before in a book or refereed journal</td></tr>
+<tr><td><b>Length</b></td><td> 6,000 to 12,000 words (including references)</td></tr>
+<tr><td><b>File type</b></td><td>Please submit you essay as a PDF</td>
+<tr><td><b>Submit two versions</b></td><td>
+<p>Version 1: <i>includes</i> author information</p>
+<p>Version 2: <i>redacts</i> identifying information</p>
 </td>
 </tr>
 </table>
-</div>
+
 
 ### Adjudication
 
@@ -57,4 +55,8 @@ We will announce results by April 30th, 2021.
 
 
 Note: should no essay be found deserving, we may decide not to nominate a winner.
+
+### Past Winners
+
+Curious about the *RECASP* essay prize? [Read past winning essays here.](https://capitalaspower.com/recasp/essay-winners/)
 

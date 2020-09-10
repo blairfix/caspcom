@@ -14,6 +14,17 @@ Blair Fix [(email)](mailto:blairfix@gmail.com)
 Articles are published as Open Access under the Creative Commons licence [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/ )
 
 
+### Essay Prize
+
+Each year the *Review of Capital as Power* sponsors an essay writing contest.  The 2021 contest is now open. 
+
+* [2021 Capital as Power Essay Prize](https://capitalaspower.com/recasp/annual-essay-prize/)
+
+
+* [Past Prize Winners](https://capitalaspower.com/recasp/essay-winners/)
+
+
+
 
 ### Latest Articles
 
@@ -21,3 +32,6 @@ recent_articles
 
 
 [More articles](https://capitalaspower.com/recasp/articles/)
+
+
+

@@ -10,6 +10,7 @@ The *Review of Capital as Power* (*RECASP*) is a non-disciplinary, peer-reviewed
 The capital-as-power approach has been applied to a wide variety of topics, including:
 
 * capitalist income and business cycles
+* cinema
 * debt
 * education
 * income inequality
@@ -18,11 +19,12 @@ The capital-as-power approach has been applied to a wide variety of topics, incl
 * mergers and acquisitions
 * military conflicts
 * social movements
+* taxation
 * the growth of dominant capital
 * the growth of hierarchy
 * the nature of money and finance
 * the origin of capitalism
-
+* the stock market
 
 
 

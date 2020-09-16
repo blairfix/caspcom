@@ -1,0 +1,110 @@
+
+% CASP WORKING PAPER TEMPLATE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%  PAPER NUMBER
+\newcommand{\wpnumber}
+{2020/05}
+
+% TITLE
+\newcommand{\papertitle}
+{Can the World Get Along \\Without Natural Resources?}
+
+% SUBTITLE
+\newcommand{\papersubtitle}
+%{This Is A Subtitle}
+
+% AUTHOR
+\newcommand{\paperauthor}
+{Blair Fix}
+
+% DATE
+\newcommand{\paperdate}
+{July 2020}
+
+% WORDPRESS PAGE NUMBER
+\newcommand{\wordpresspage}
+{3968}
+
+% PAPER FILENAME
+\newcommand{\paper}
+{input_paper}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+% PACKAGES
+\documentclass[12pt]{article}
+
+% letter size
+\usepackage[left=0in,right=0in,top=0.4in,bottom=0in]{geometry}
+
+\usepackage[hidelinks]{hyperref}
+\usepackage{newcent}
+\usepackage{pdfpages}
+\usepackage{tikz}
+\usepackage{xcolor}
+\pagestyle{empty}
+
+\newcommand\twentyeight{\fontsize{28}{60}\selectfont}
+\newcommand\thirtysix{\fontsize{36}{60}\selectfont}
+\newcommand\fortyeight{\fontsize{48}{60}\selectfont}
+
+
+\begin{document}
+\centering
+
+% BANNER
+\fcolorbox{black}{black}{
+	\begin{minipage}{\textwidth}
+	
+	\vspace{1.1em}
+	\centering
+	
+	\twentyeight
+	\textcolor{white}{
+	W\textsc{orking} 
+	P\textsc{apers on} \\
+	\fortyeight
+	C\textsc{apital} 
+	\thirtysix \textsc{as}
+	\fortyeight
+	P\textsc{ower}}
+	
+	\vspace{0.4em}
+
+	\end{minipage}
+}
+
+% PAPER NUMBER
+\vspace{7em}
+\LARGE No. \wpnumber
+
+% TITLE
+\vspace{5em}
+\textbf{\papertitle} \\
+\large
+\textbf{\papersubtitle}
+
+%AUTHOR
+\vspace{3em}
+\normalsize 
+\paperauthor
+	
+% DATE
+\vspace{2.5em}
+\paperdate
+
+\vspace{17em}
+\begin{minipage}{0.7\textwidth}
+\raggedleft
+\href{http://www.capitalaspower.com/?p=\wordpresspage}
+{http://www.capitalaspower.com/?p=\wordpresspage}
+\end{minipage}
+
+\includepdf[pages=-]{\paper}
+	
+\end{document}

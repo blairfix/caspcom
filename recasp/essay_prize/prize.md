@@ -5,9 +5,9 @@ The *Review of Capital as Power* is pleased to announce our 2021 essay competiti
 
 <table style="width:400px; margin-left: auto;margin-right: auto;">
 <td></td><td></td>
-<tr><td>First Prize</td><td>$1000</td></tr>
-<tr><td>Second Prize</td><td>$500</td></tr>
-<tr><td>Third Prize</td><td>$300</td></tr>
+<tr><td>First Prize</td><td>$1000 <span style="font-size:60%">(CAD)</span></td></tr>
+<tr><td>Second Prize</td><td>$500 <span style="font-size:60%">(CAD)</span></td></tr>
+<tr><td>Third Prize</td><td>$300 <span style="font-size:60%">(CAD)</span></td></tr>
 </table>
 
 

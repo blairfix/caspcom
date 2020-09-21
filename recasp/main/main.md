@@ -14,6 +14,10 @@ Blair Fix [(email)](mailto:blairfix@gmail.com)
 Articles are published as Open Access under the Creative Commons licence [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/ )
 
 
+**Fees:** There are no fees for publishing in the *Review of Capital as Power*. 
+
+
+
 ### Essay Prize
 
 Each year the *Review of Capital as Power* sponsors an essay writing contest.  The 2021 contest is now open. 

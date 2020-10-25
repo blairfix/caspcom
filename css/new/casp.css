@@ -12,6 +12,7 @@ body, button, input, select, textarea {
 }
 article a, .entry-content a {
 	color: #cd2727;
+	text-decoration:none; !important;
 }
 article a:hover, .entry-content a:hover {
 	color: #cd2727;
@@ -649,3 +650,9 @@ height: 200px;
     margin-right: 25px;
 }
 	}
+
+
+.single .twp-entry-content .post-content .entry-content p a:not(.read-more) {
+    box-shadow: none
+}
+

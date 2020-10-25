@@ -29,7 +29,7 @@ blockquote {
 
 a.broken_link {
 	color: #cd2727;
-	text-decoration:none;
+	text-decoration:none; !important;
 }
 
 p {

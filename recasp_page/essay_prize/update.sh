@@ -3,10 +3,17 @@
 parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 cd "$parent_path"
 
+# prize announcment
+#cd ./announce
+#post=$(find . -maxdepth 1 -mindepth 1  -name '*.md' | sort | tail -n 1)
+#cd "$parent_path"
+#pandoc ./announce/$post -o prize.html
 
-pandoc --from markdown_strict prize.md -o prize.html
-
-
+# prize winner
+cd ./winner
+post=$(find . -maxdepth 1 -mindepth 1  -name '*.md' | sort | tail -n 1)
+cd "$parent_path"
+pandoc ./winner/$post -o prize.html
 
 # replace special characters
 sed -i -e "s/---/\&mdash;/g

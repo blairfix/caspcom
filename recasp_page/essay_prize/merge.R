@@ -1,7 +1,7 @@
 library(here)
 
 dir = here()
-dir = paste(dir, "/recasp/essay_prize", sep = "")
+dir = paste(dir, "/recasp_page/essay_prize", sep = "")
 
 # main file
 setwd(dir)

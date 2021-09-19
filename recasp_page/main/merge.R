@@ -5,7 +5,7 @@ dir = paste(dir, "/recasp_page/main", sep = "")
 
 # main file
 setwd(dir)
-main = readLines("main.html")
+main = readLines('main.html')
 
 # recent articles
 setwd(dir)

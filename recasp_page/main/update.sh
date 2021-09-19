@@ -3,8 +3,9 @@
 parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 cd "$parent_path"
 
+main=$(find . -maxdepth 1 -mindepth 1  -name '*[0-9].md' | sort | tail -n 1)
 
-pandoc main.md -o main.html
+pandoc $main -o main.html
 
 # replace special characters
 sed -i -e "s/---/\&mdash;/g

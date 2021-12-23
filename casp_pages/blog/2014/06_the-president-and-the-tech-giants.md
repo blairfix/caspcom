@@ -1,0 +1,15 @@
+<b>Sandy Hager</b>
+
+In an <a href="http://www.ft.com/cms/s/0/3b74fd06-8901-11e3-bb5f-00144feab7de.html?siteedition=uk#axzz2s4efFJyr" target="_blank" rel="noopener noreferrer">interesting piece</a> for the Financial Times, Christopher Caldwell assesses <a href="http://video.ft.com/3120070621001/Obama-pledges-to-go-it-alone/World" target="_blank" rel="noopener noreferrer">Obama’s declaration</a> to ‘go it alone’ in light of the ‘obstructionist Republican agenda’ in the US Congress.
+
+In a recent State of the Union address, Obama pledged a year of action, one that would see the president push for major policy reforms with or without congressional support. <a href="http://www.theguardian.com/world/2014/jan/28/republicans-fight-obama-minimum-wage-executive-action-plan" target="_blank" rel="noopener noreferrer">The passing of a minimum wage of $10.10 for federal contract workers</a> is one example of the president’s current efforts to bypass Republican resistance.
+
+Caldwell agues that this bold new strategy risks inflaming political tensions and widening the already gaping partisan divide. For a popular president, standing up to Congress is seen as leadership. But with his approval rating at only 46 percent, Obama’s go-it-alone attitude is likely to be viewed rather as an exercise in autocracy.
+
+According to Caldwell, Obama does have one thing working in his favour. Although he is increasingly unpopular with the electorate, Obama does enjoy the support of the US’ ‘rising elite’. And this support, Caldwell contends, gives Obama ‘tools more powerful than executive orders’. By way of illustrating these powerful tools, Caldwell notes how, in response to a recent congressional decision not to allocate funding for pre-kindergarten education funding, the Obama administration has teamed up with the some of the major tech companies, including Apple, Microsoft, Sprint and Verizon, to provide internet services for millions of school children.
+
+Fraternizing with the business elite is one way of overcoming the current gridlock. But as Caldwell cautions it might, in the long term, breed plutocracy.
+
+What I find most interesting about the news of Obama’s cozy new partnership with the tech giants is that it paints a very different picture from the one we saw near the end of 2013. Just over a month ago, <a href="http://www.bloomberg.com/news/2013-12-18/nsa-fallout-tests-obama-relationship-with-tech-companies.html" target="_blank" rel="noopener noreferrer">news agencies</a> were reporting how the tech giants had fallen out with the Obama administration over the issue of NSA surveillance. One report cited by Reuters estimated that US tech companies stand to lose up to $35 billion in revenues, thanks to anxieties about the security of their systems in light of US spying abroad.
+
+These two examples highlight the complexity of government relations with big business. Also, we can't help but wonder: is the recent philanthropy drive by tech giants part of a strategy to soften the administration’s stance on surveillance?

@@ -1,0 +1,9 @@
+div.image-full {
+  /*width: 50% !important;
+  height: auto;*/
+  display: none;
+}
+/*img .wp-post-image {
+    width: 50%;
+}*/
+

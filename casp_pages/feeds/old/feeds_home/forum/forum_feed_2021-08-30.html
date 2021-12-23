@@ -1,0 +1,21 @@
+[wpv-layout-start]
+	[wpv-items-found]
+
+	<!-- wpv-loop-start -->
+		<wpv-loop>
+          <li  style="padding: 10px 0 10px" class="rss_item">
+          <small>[wpv-post-date format="F j, Y g:i a"]</small>
+          <span class="title">
+            <a href="[wpv-post-url]" target="_blank" rel=" noopener">[wpv-post-title]</a>
+          </span>
+          <small>[wpv-post-excerpt length="80" count="word"]</small>
+          </li>
+		</wpv-loop>
+	<!-- wpv-loop-end -->
+
+	[/wpv-items-found]
+	[wpv-no-items-found]
+		<strong>[wpml-string context="wpv-views"]No items found[/wpml-string]</strong>
+	[/wpv-no-items-found]
+[wpv-layout-end]
+

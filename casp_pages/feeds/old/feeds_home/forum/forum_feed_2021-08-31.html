@@ -1,0 +1,21 @@
+[wpv-layout-start]
+	[wpv-items-found]
+
+	<!-- wpv-loop-start -->
+		<wpv-loop>
+		<span style="background: white; width: 360px; display:block; float: left; padding: 20px;">
+          <div><small>[wpv-post-date format="F j, Y g:i a"]</small></div>
+          
+          <div class="title"><a href="[wpv-post-url]" target="_blank" rel=" noopener">[wpv-post-title]</a></div>
+          <div><small>[wpv-post-excerpt length="100" count="word"]</small></div>
+         </span>
+          
+		</wpv-loop>
+	<!-- wpv-loop-end -->
+
+	[/wpv-items-found]
+	[wpv-no-items-found]
+		<strong>[wpml-string context="wpv-views"]No items found[/wpml-string]</strong>
+	[/wpv-no-items-found]
+[wpv-layout-end]
+

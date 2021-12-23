@@ -1,0 +1,633 @@
+
+/*--------- CASP CSS ---------*/
+
+
+/*--------- fonts---------*/
+html, button, input, select, textarea {
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+body .primary-font {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body, textarea {
+	font-size: 18px;
+}
+
+.site-branding {
+	text-align: left;
+}
+
+.main-navigation .menu ul > li > a {
+	font-size: 16px;
+	line-height: 40px;
+	padding: 0 10px;
+	text-transform: uppercase;
+}
+
+button, input, select {
+	font-size: 14px;
+}
+
+
+.site-branding .site-title {
+	font-family: 'Bitstream Charter', 'Bookman Old Style', 'Hoefler Text', 'New Century Schoolbook', 'Century Schoolbook', 'Century Schoolbook L', Garamond, Georgia, serif;
+	font-size: 37px;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+
+
+.site-description {
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+.center-widget-title.widget-title {
+	font-family: 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.entry-content{
+	font-family: 'Bitstream Charter', 'Bookman Old Style', 'Hoefler Text', 'New Century Schoolbook', 'Century Schoolbook', 'Century Schoolbook L', Garamond, Georgia, serif;
+}
+
+
+.widget-title {
+	font-family: 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 20px;
+}
+
+.site-info .site-copyright {
+	font-family: 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif;
+	padding: 15px 0;
+}
+
+.h4.site-copyright, h4.site-copyright {
+	font-family: 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 1px;
+}
+
+.rss_content {
+	font-size:15px
+}
+
+.rss_content small {
+font-style: normal !important;
+}
+
+
+
+
+/*--------- paragraphs---------*/
+
+
+blockquote::before {
+	width: 0px;
+	height: 0px;
+}
+
+blockquote::after {
+	width: 0px;
+	height: 0px;
+}
+
+blockquote {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 50px;
+	padding-left: 15px;
+	padding-bottom: 0px;
+	border-left: 3px solid #ccc;
+	border-top: 0px;
+	text-align: left
+} 
+
+
+.entry-content p {
+	line-height: 1.6;
+    margin-top: 1.3em ;
+    margin-bottom: 1.3em ;
+}
+
+p {
+	line-height: 1.3;
+}
+
+
+
+
+blockquote.d4pbbc-quote{
+	font-size: 16px;
+	background-color: #E8E8E8;
+}
+
+.entry-content ol, .entry-content ul {
+	list-style-position: outside;
+}
+
+ul, ol {
+	margin: 0 0 .5em .2em;
+}
+
+li {
+	border: 0 !important;
+}
+
+p.secondary-textcolor {
+	display: none;
+}
+
+
+
+
+
+/*--------- headers---------*/
+
+.title{
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif;
+}
+
+h2.rss-block-header {
+	font-family: 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	padding: 7px 15px 7px 20px;
+	text-transform: uppercase;
+	width: 100%;
+	margin-top: -15px !important;
+	margin-bottom: -15px !important;
+}
+
+h2.rss-block-header a {
+	color: #000;
+}
+
+.rss_header{
+	display: block;
+	width: 100%;
+	position: relative;
+}
+
+.rss_header>h2{
+	width: 100%;
+	display: block;
+	position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: inherit;
+}
+
+h1.entry-title{
+	font-family: 'Bitstream Charter', 'Bookman Old Style', 'Hoefler Text', 'New Century Schoolbook', 'Century Schoolbook', 'Century Schoolbook L', Garamond,  Georgia, serif;
+	text-transform: uppercase;
+}
+
+h2.secondary-textcolor {
+	background: rgba(0, 0, 0, 0.5); 
+	padding:10px; 
+}
+
+h2.secondary-textcolor {
+	margin-bottom: 0;
+}
+
+
+
+
+/*--------- links---------*/
+
+article a, .entry-content a {
+	color: #990000;
+	text-decoration:none; !important;
+}
+
+article a:hover, .entry-content a:hover {
+	text-decoration:underline;
+}
+
+a.btn {
+	max-width: 200px !important;
+}
+
+a.rss_title_h2{
+	color: #fff !important;
+}
+
+.title a, small a {
+    color: #000;
+}
+
+
+a.read-more {
+	color: #ffffff !important;
+	font-family: 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif;
+}
+
+a:hover .read-more{
+	text-decoration:underline;
+}
+
+
+
+
+/*--------- colors---------*/
+
+#masthead {
+	background: #990000
+}
+
+div.branding-center a {
+	color: #fff;
+}
+
+.primary-bgcolor {
+	background-color: #990000
+}
+
+.secondary-bgcolor {
+	background: #fff;
+}
+
+.wrapper.page-inner-title.inner-banner {
+	background: #888888;
+
+}
+
+.switch div {
+	background: #990000
+}
+
+.read-more, .more-link, .scroll-up, body .nav-links .nav-previous, body .nav-links .nav-next, button, input[type="button"], input[type="reset"], input[type="submit"] {
+	background: #990000;
+}
+
+.main-navigation .menu > ul > li:hover > a,
+.main-navigation .menu > ul > li:focus > a,
+.main-navigation .menu > ul > li.current-menu-item > a {
+	background: #272727;
+}
+
+.grid-item {
+	background: #fff none repeat scroll 0 0;
+}
+
+
+
+
+
+
+/*--------- spacing ---------*/
+
+body.no-sidebar #primary {
+	max-width: 1140px;
+	padding-left:10px;
+	padding-right: 10px;
+}
+
+body.home #primary {
+	max-width: 1140px;
+}
+
+#primary, #secondary {
+	padding-top: 10px;
+}
+
+.owl-dots {
+	padding: 0;
+	line-height:.9em;
+}
+
+.site-content .entry-content .image-full {
+	margin: 0 auto 20px;
+}
+
+.site-branding .custom-logo-link {
+	margin-bottom: 10px;
+}
+
+.main-navigation .menu ul {
+	margin: 0 0 px;
+}
+
+.pt-40 {
+	padding: 0px;
+}
+
+.home .site-content {
+	padding: 0;
+}
+
+.site-branding {
+	padding-top: 10px;
+}
+
+.read-more, .more-link {
+	padding: 5px 10px;
+	margin: 10px;
+	border-radius: 0;
+}
+
+.main-navigation {
+	border-left: 0;
+	border-right: 0;
+}
+
+.home .section-block {
+	clear: both;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+
+.col {
+	margin: 0 25px 0 0;
+}
+
+#post-5 .site-content .entry-content .image-full {
+	margin: 0 auto 0px;
+}
+
+
+.title-seperator {
+	height: 0 px;
+}
+
+.title-seperator {
+	margin: 0;
+}
+
+
+.entry-header .entry-title {
+	padding-left: 30px;
+}
+
+.site-content {
+	padding: 25px 0;
+}
+
+body .inner-banner {
+	padding: 10px 0;
+}
+
+.site-branding {
+	margin-left: 30px;
+}
+
+
+.col {
+	display: block;
+	float: left;
+	margin: 0 10px 0 0;
+}
+
+.pb-30 {
+	padding-bottom: 10px;
+}
+
+.pb-40 {
+	padding-bottom: 10px;
+}
+
+.pt-60 {
+	padding-top: 20px;
+}
+
+
+
+
+/*--------- heading ---------*/
+
+.custom-logo,
+.site-header .logo {
+	max-width: 100% !important;
+	width: 110px !important;
+	height: auto !important;
+}
+
+.page .image-full {
+	display: none;
+}
+
+.post-template-default .wrapper.page-inner-title.inner-banner{
+	background-attachment: inherit;
+	display: none;
+}
+
+
+.section.group {
+	overflow: hidden;
+}
+
+
+.group {clear: both;}
+
+
+.home .center-widget-title.widget-title, .section-title {
+	display: none !important;
+}
+
+.main-navigation .icon-sidr, .main-navigation .icon-search {
+	font-size: 25px;
+	line-height: 40px;
+	width: 80px;
+}
+
+.main-navigation .icon-sidr {
+	display: none;
+}
+
+.main-navigation .menu ul > li {
+	border-left: 0px;
+}
+
+.title-seperator {
+	display: none;
+}
+
+.site-content .entry-content .image-left {
+	display: none;
+}
+
+
+.main-navigation .menu ul ul a::before {
+	content:"";
+}
+
+.inner-meta-info, .breadcrumb-trail {
+	display: none;
+}
+
+.left-sidebar #secondary {
+	padding-right: 20px;
+	font-family: 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif;
+}
+
+
+
+
+
+/*---------------- borders -------------------*/
+
+.main-navigation .icon-sidr, .main-navigation .icon-search {
+	width: 65px;
+	border-left: 0px !important;
+}
+
+.main-navigation .menu ul > li {
+	border-left: 0px !important;
+}
+
+
+.single .twp-entry-content .post-content .entry-content p a:not(.read-more) {
+	box-shadow: none
+}
+
+
+
+
+
+
+/*---------------- forum -------------------*/
+
+
+.bbpress-wrapper{
+	font-family: 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.bbp-topic-content, .bbp-reply-content{
+	font-family: 'Bitstream Charter', 'Bookman Old Style', 'Hoefler Text', 'New Century Schoolbook', 'Century Schoolbook', 'Century Schoolbook L', Garamond, Georgia, serif;
+}
+
+.bbp-search-form{
+	padding-bottom: 10px !important;
+	clear:both;
+}
+
+
+
+.forum-titles{
+	height: 20px !important;
+}
+
+.bsp-center{
+	text-align:left;
+	float: left;
+}
+
+
+.forum .wrapper.page-inner-title.inner-banner, .topic .wrapper.page-inner-title.inner-banner, .forum-archive .wrapper.page-inner-title.inner-banner, .bbpress .wrapper.page-inner-title.inner-banner {
+	background-attachment: inherit;
+	display: none;
+}
+
+
+.forum-archive div.bbp-breadcrumb {
+	display : none ;
+}
+
+
+
+
+
+
+/*---------------- media css -------------------*/
+
+@media (max-width: 600px){
+
+	.group .mobile_full{
+		display:block;
+		width:100%;
+		margin-left: 0;
+	}
+	
+	.feed, .feed-forum, .rss_item {
+		width: 100%;
+		display:block;
+		padding: 10px 0px 10px 0px !important;
+	}
+
+}
+
+@media (min-width: 601px){
+
+
+	.feed, .feed-forum, .rss_item {
+		width: 100%;
+		display:block;
+		padding: 10px 40px 20px 40px !important;
+	}
+
+
+}
+
+
+
+@media only screen and (min-width: 992px) {
+
+#primary {
+    width: 62%;
+	background: #fff;
+}
+
+	.home #primary {
+		background: #fff;
+	}
+	
+	#secondary {
+		width: 22%;
+		background: #fff;
+		float:left;
+
+
+	}
+	
+	.left-sidebar #primary {
+	    padding-left: 25px;
+	    margin-right: 100px;
+	}
+	
+	.feed {
+		width: 33.3%;
+		min-height: 30em; 
+		display:block; 
+		float: left; 
+		padding: 20px;
+	}
+	
+	.feed-forum {
+		width: 33.3%;
+		min-height: 20em; 
+		display:block; 
+		float: left; 
+		padding: 20px;
+	}
+
+	.rss_item {
+		width: 30%;
+		min-height: 15em;
+		display:block; 
+		float: left; 
+		padding: 0px !important;
+		margin-left: 25px !important;
+		margin-right: 0px !important;
+	}
+
+}
+
+
+
+/*---------------- search return -------------------*/
+
+.entry-summary, .entry-meta, h2.entry-title, .entry-header{
+	text-align: left !important;
+	max-width: 600px;
+	margin-left: 0px !important;
+	padding-left: 0px !important;
+}
+

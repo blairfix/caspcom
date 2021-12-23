@@ -1,0 +1,14 @@
+.span_1_of_3 {
+    width: 340px;
+    background: #fff;
+}
+.rss_content{
+    padding: 10px;
+	max-width:330px;
+}
+.feedzy-rss .rss_item {
+    margin: 15px;
+}
+.feedzy-rss {
+    width: 335px;
+}

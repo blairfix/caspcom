@@ -1,0 +1,13 @@
+<b>DT Cochrane</b>
+
+The logic of accumulation is not the only logic that motivates capitalists. As fully actualized human beings, they remain complex in their desires. Rather, the logic of accumulation is dominant and, Nitzan and Bichler argue, pervasive and ascendant; increasingly operating beyond the business domain. However, the other logics, or principles of behaviour, that inform people's activities remain very relevant to capitalism.
+
+One of the logics that continues to function throughout the social order is the logic of patriarchy. Patriarchy manifests itself in many ways within business. A significant pay gap between men and women remains. There is a glass ceiling for women’s advancement and men dominate the upper echelons of the corporate hierarchy. Now, recent analysis indicates that even when women manage to punch through the glass ceiling and ascend to the commanding heights, they continue to be disadvantaged as the disproportionate targets of so-called activist investors.
+
+By the purely accumulatory logic, neither someone’s sex nor their gender should have any bearing in the capitalist domain. All that matters is returns. In fact, the activist investors asked about this suggested as much, “insisting that <em>a company’s performance</em>, not the sex of the chief executive, was the only factor in their calculus to pursue an investment or activist campaign” (emphasis added).
+
+The actuality is not so simple. The causes for a company’s performance are not objective and predetermined. Many pieces of the social order that bears on valuation are entangled with sexism. This means sexism becomes a part of the calculations that are translated into the financial quantities of a company’s ‘performance.’ Subcontractors may pursue higher margins when negotiating with women, increasing costs. Perhaps female leaders are less likely to take advantage of the wage gap, increasing labour costs. Even if an investor does not have a bias they may <em>anticipate a bias</em> among other investors and reduce their valuation in turn, perpetuating a pernicious cycle of undervaluation.
+
+The women who have managed to reach the commanding heights have largely had to adopt the widely shared mentalities of the corporate elite. This includes insisting on individual merit as the basis for promotion, remuneration and durability. This may explain why the female CEOs contacted about the possibility that they are targets by virtue of their gender refused to discuss the matter. It contravenes the mythology of a rational system that justly distributes its rewards; a mythology that is vital for maintaining the entire system.
+
+Image from <a href="https://www.flickr.com/photos/fallenpegasus/">flickr.com</a>

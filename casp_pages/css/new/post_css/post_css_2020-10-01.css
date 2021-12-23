@@ -1,0 +1,60 @@
+div.image-full {
+  /*width: 50% !important;
+  height: auto;*/
+  display: none;
+}
+/*img .wp-post-image {
+    width: 50%;
+}*/
+
+blockquote::before {
+  width: 0px;
+  height: 0px;
+}
+
+blockquote::after {
+  width: 0px;
+  height: 0px;
+}
+
+blockquote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+  border-top: 0px;
+  text-align: left 
+} 
+
+a.broken_link {
+	color: #cd2727;
+	text-decoration:none; !important;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+div {
+    font-size: 18px;
+}
+
+h2 { 
+	font-weight: bold;
+}
+
+h3 { 
+	font-weight: bold;
+}
+
+h4 { 
+	font-weight: bold;
+}
+
+div.sfsi_socialwpr {
+	display: none;
+}
+
+

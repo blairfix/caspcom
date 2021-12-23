@@ -33,7 +33,7 @@ Make sure you essay meets the following requirements:
 <table style="width:500px; margin-left: auto; margin-right: auto;">
 <td></td><td></td>
 <tr><td><b>Unpublished</b></td><td>You essay should <i>not</i> have been published before in a book or refereed journal</td></tr>
-<tr><td><b>Length</b></td><td> 6,000 to 12,000 words (including references)</td></tr>
+<tr><td><b>Length</b></td><td> max 12,000 words (including references)</td></tr>
 <tr><td><b>File type</b></td><td>Please submit you essay as a PDF</td>
 <tr><td><b>Submit two versions</b></td><td>
 <p>Version 1: <i>includes</i> author information</p>
